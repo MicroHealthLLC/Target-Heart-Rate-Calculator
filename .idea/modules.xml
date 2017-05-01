@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Target-Heart-Rate-Calculator-master.iml" filepath="$PROJECT_DIR$/Target-Heart-Rate-Calculator-master.iml" />
+      <module fileurl="file://C:/../DISK_IMG/WORLD_START/Target-Heart-Rate-Calculator-master/Target-Heart-Rate-Calculator-master.iml" filepath="C:/../DISK_IMG/WORLD_START/Target-Heart-Rate-Calculator-master/Target-Heart-Rate-Calculator-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TargetHeartRateCalculator.iml" filepath="$PROJECT_DIR$/TargetHeartRateCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/../DISK_IMG/WORLD_START/Target-Heart-Rate-Calculator-master/app/app.iml" filepath="C:/../DISK_IMG/WORLD_START/Target-Heart-Rate-Calculator-master/app/app.iml" />
+    </modules>
+  </component>
+</project>

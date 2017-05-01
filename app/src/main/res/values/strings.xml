@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Target Heart Rate Calc</string>
+
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+    <string name="checkin">Checkin</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main2">WHtR Calculator</string>
+    <string name="maleunderweight"></string>
+    <string name="femaleundeweight">Female less than 0.42</string>
+    <string name="terms_condition">This app was developed by Microhealth llc.By using this app,the terms and conditions below will automatically apply to you – Please read them  before using the app.\n\nAs part of any internship for an aspiring developer, they need a portfolio of products to not only improve their skills but demonstrate them for potential employers. You will notice, there is not a single ad here, simply an app created by paid interns that range from high school students to college students. Please show your support by downloading the application and leaving them meaningful comments to help them improve their skills and expand their portfolio for their resume. Though we hope many of them will be hired in our company, many get an amazing start in the industry by demonstrating their portfolio of products they developed which earns them higher pay and quicker hire. Thanks for supporting MicroHealth Interns. </string>
+    <string name="title_activity_splash_screen">WHtR Calculator</string>
+    <string name="article_detail_more_info">Calculating Your Target Heart Rate</string>
+    <string name="copy_right">2017 All © rights reserved</string>
+    <string name="title_activity_additional_bmiinfo">Target Heart Rate Calculator</string>
+    <string name="source">Source: https://www.lifespanfitness.com/fitness/resources/target-heart-rate-calculator</string>
+    <string name="placeholder">Your target heart rate is the heart rate you should maintain during exercise to improve your fitness.Taking your pulse and calculating your heart rate during a workout is one of the primary indicators in ascertaining the intensity level at which you and your heart is working.\n\n
+        1.<b>Determine your resting heart rate</b>. Use your index and middle finger to find your pulse in your wrist.Count the number of pulse beats in 1 minute and record the results by sliding the <b>resting heart rate progress bar</b>.\n\n2.Slide  the <b>age progress bar </b> to match your age.\n\n
+        3.Finally, choose your desired range of intensity to determine your <b>minimum and maximum </b>target heart rate.\n\n<b>Intensity Range</b>\n\nTHR= Target Heart Rate \n\n<b>Very Hard (90-100%) : </b> Develops maximum performance and speed.Recommended THR ZONE <b>[171 -190]</b>\n\n<b>Hard (80-90%):</b> Increases maximum performnce capacity.Recommended THR ZONE <b>[152 -171]</b>\n\n<b>Moderate (70-80%):  </b>Improves aerobic fitness.Recommended THR ZONE <b>[133 -152]</b>\n\n<b>Light (60-70%):</b> Improves basic endurance and fat burning.Recommended THR ZONE <b>[114 -133]</b>\n\n<b>Very Light (50-60%):</b> Increases maximum performnce capacity.Recommended \nTHR ZONE <b>[95 -114]</b>\n\n
+
+
+
+
+    </string>
+</resources>

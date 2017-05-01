@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="maxmoons.microhealth.com.waistheightratio.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_actiondark"
+        android:title="about"
+        app:showAsAction="always">
+
+        <menu>
+            <item android:id="@+id/how"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_action_action_help"
+                android:title="how to"
+                />
+            <item
+                android:id="@+id/about"
+                android:orderInCategory="100"
+                android:title="about"
+                android:icon="@drawable/ic_action_action_account_child"
+                app:showAsAction="always" />
+
+            <item android:id="@+id/terms"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_action_action_description"
+                android:title="terms of use"
+                />
+
+
+        </menu>
+    </item>
+
+</menu>
