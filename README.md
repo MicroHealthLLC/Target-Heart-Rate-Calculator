@@ -11,17 +11,17 @@ Credits - Christian Moons - Micro Health Developer Intern
           Daniel Boakye - Micro Health Developer Intern
           
           
-          ![Alt text](https://s3.amazonaws.com/waistheightratio/ts1.png "THR Calculator")
+![Alt text](https://s3.amazonaws.com/waistheightratio/ts1.png "THR Calculator")
           
           
           
           
-           ![Alt text](https://s3.amazonaws.com/waistheightratio/ts2.png "How To")
+![Alt text](https://s3.amazonaws.com/waistheightratio/ts2.png "How To")
            
            
            
            
-                ![Alt text](https://s3.amazonaws.com/waistheightratio/ts3.png "About")
+  ![Alt text](https://s3.amazonaws.com/waistheightratio/ts3.png "About")
           
           
           
